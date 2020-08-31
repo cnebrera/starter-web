@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 I have added some text now
 
+## Other section
+
+More text in the section
