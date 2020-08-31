@@ -15,3 +15,7 @@ I have added some text now
 ## Other section
 
 More text in the section
+
+#Copyright
+
+asdlkjalkdjas
