@@ -22,4 +22,4 @@ This is cool!!
 
 #Copyright
 
-asdlkjalkdjas
+All right reserverd
